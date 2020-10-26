@@ -10,7 +10,7 @@ particlesJS('particles-js', {
 			}
 		},
 		color: {
-			value: [ '#2EB67D', '#ECB22E', '#E01E5B', '#36C5F0' ]
+			value: [ '#1c2b2d', '#1f6f8b', '#99a8b2', '#e6d5b8' ]
 		},
 		shape: {
 			type: 'circle',
@@ -23,8 +23,8 @@ particlesJS('particles-js', {
 			},
 			image: {
 				src: 'https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png',
-				width: 100,
-				height: 100
+				width: 50,
+				height: 50
 			}
 		},
 		
