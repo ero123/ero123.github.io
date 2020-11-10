@@ -39,7 +39,7 @@ particlesJS('particles-js', {
 			}
 		},
 		size: {
-			value: 8,
+			value: 0,
 			random: true,
 			anim: {
 				enable: false,

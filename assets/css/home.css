@@ -15,7 +15,7 @@ html[data-theme="dark"] {
   --kaggle: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #41aff3, 0 0 20px #41aff3, 0 0 25px #41aff3, 0 0 30px #41aff3, 0 0 35px #41aff3;
   --dribble: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ea4c89, 0 0 20px #ea4c89, 0 0 25px #ea4c89, 0 0 30px #ea4c89, 0 0 35px #ea4c89;
   --medium: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #00ab6c, 0 0 20px #00ab6c, 0 0 25px #00ab6c, 0 0 30px #00ab6c, 0 0 35px #00ab6c;
-  --shadow-col: #15f4ee;
+  --shadow-col: #191919;
 }
 
 /* Particle effect*/
